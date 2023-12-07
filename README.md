@@ -2,7 +2,7 @@
 
 
 <h1>I'm Kinuthia (ke-no-th-ia)</h1>
-![](https://github.com/frankkinuthian/frankkinuthian/blob/main/laptop.gif)
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 I've been learning to code for the past year. Started with HTML, but constantly finding a passion for backend languages such as Ruby & Ruby on Rails! JavaScript & ReactJS | Python
 
