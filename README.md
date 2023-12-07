@@ -2,9 +2,9 @@
 
 
 <h1>I'm Kinuthia (ke-no-th-ia)</h1>
-(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+`https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif`
 <h2>💻👨‍💻Full Stack Web Developer</h2>
-I've been learning to code for the past year. Started with HTML, but constantly finding passion for backend languages such as Ruby & Ruby on Rails! JavaScript & ReactJS | Python
+I've been learning to code for the past year. Started with HTML, but constantly finding a passion for backend languages such as Ruby & Ruby on Rails! JavaScript & ReactJS | Python
 
 *   🌍  I'm based in Mombasa, Kenya
 *   🧠  I'm learning PHP, Django for Python
